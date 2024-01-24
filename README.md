@@ -8,7 +8,7 @@
 
 | Solution & Game logic | Screenshot of the game logic |
 | ----------- | ----------- |
-| The logic of the game itself were implemented with many series of checks. ➡️ | <img src="https://github.com/Runador/RockPaperScissorsGameByRunador/blob/main/screenshot.png" alt="Game Logic" style="height: 549px; width:411px;"/> |
+| The logic of the game itself were implemented with many series of checks. ➡️ | <img src="https://github.com/Runador/RockPaperScissorsGameByRunador/blob/main/screenshot.png" alt="Game Logic" style="height: 330px; width:247px;"/> |
 ---
 
 ### <p>Thе game was written without any engines from scratch.</p>
